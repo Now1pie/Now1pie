@@ -1,4 +1,4 @@
-<h1 align="center">✨ 안녕하세요, 학생 개발자 <strong>Now1pie</strong>입니다!</h1>
+<h1 align="center">✨ 안녕하세요, 학생 개발자 <strong>Nowipie</strong>입니다!</h1>
 
 <p align="center">
   🌱 끊임없이 배우고 성장하는 프로그래머<br>
