@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Now1pie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
