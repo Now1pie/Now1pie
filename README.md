@@ -24,11 +24,11 @@
 
 ### 📈 GitHub 통계
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Now1pie&show_icons=true&theme=dark&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Now1pie&theme=dark&hide_border=true" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Now1pie&layout=compact&theme=dark&hide_border=true" height="165px"/>
+  [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
