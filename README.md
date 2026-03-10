@@ -22,17 +22,6 @@
 
 ---
 
-### 📈 GitHub 통계
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Now1pie&show_icons=true&theme=tokyonight)
-</p>
-
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Now1pie&layout=compact&theme=tokyonight)
-</p>
-
----
-
 ### 💬 Contact
 <p align="center">
   <a href="https://seong-woo.kro.kr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
