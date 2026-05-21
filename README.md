@@ -1,12 +1,12 @@
 ### Nowipie
 
-> "작은 코드 한 줄이 세상을 바꾼다."
+> "우리 엄마 된장찌개 개잘해요"
 
 ---
 
 #### `$ whoami`
-- **Fields** : AI, Web, Discord Bot
-- **Links** : [Portfolio](https://seong-woo.kro.kr)
+- **Fields** : Full-stack, Discord Bot(특히 파이썬)
+- **Links** : [Project](https://imverycute.xyz)
 
 #### `$ stack`
 <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mysql,git,github,vscode,ts&perline=12" />
