@@ -6,13 +6,10 @@
 
 #### `$ whoami`
 - **Fields** : Full-stack, Discord Bot(특히 파이썬)
-- **Links** : [Project](https://imverycute.xyz)
+- **Links** : 🔗 [Project](https://imverycute.xyz) | 🔗 [Contact](https://seong-woo.kro.kr)
 
 #### `$ stack`
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,python,express,sqlite,git,github,vscode,ts&perline=12" />
-
-#### `$ contact`
-<a href="https://seong-woo.kro.kr"><img src="https://img-shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,python,express,sqlite,git,github,vscode&perline=12" />
 
 ---
 
