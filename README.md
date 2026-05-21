@@ -13,7 +13,7 @@
 
 ---
 
-`[ Discord Bot Commissions : OPEN ]`
+`[ 협업 받습니다 ]`
 _완벽한 결과물로 증명합니다._
 
 <br>
