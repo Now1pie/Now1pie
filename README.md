@@ -5,7 +5,7 @@
 ---
 
 #### `$ whoami`
-- **Fields** : Full-stack, Discord Bot(특히 파이썬)
+- **Fields** : full-stack, discord.py
 - **Links** : 🔗 [Project](https://imverycute.xyz) | 🔗 [Contact](https://seong-woo.kro.kr)
 
 #### `$ stack`
